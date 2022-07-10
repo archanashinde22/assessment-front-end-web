@@ -21,18 +21,26 @@ ol {
 }
 
 a {
-	color: orange;
+	color: Black;
 }
 
 a:visited {
-	color: crimson;
+	color: blue;
 }
 
 
 input {
-	display: block;
+	display: inline-block;
 }
 
 img {
 	max-width: 300px;
+}
+.fav {
+	height:30px;
+	width:150px;
+	padding: 5px;
+	margin:5px;
+	border-radius: 5px;
+	background-color: yellow;
 }
